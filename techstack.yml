@@ -1,0 +1,20 @@
+repo_name: Zerohertz/awesome-alternative-military-service
+report_id: 2a9087ea6e4f702a86bff8d7e32c4e4c
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-15T13:00:19+00:00'
+requested_by: sesang06
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Zerohertz/awesome-alternative-military-service
+  detection_source: Repo Metadata
